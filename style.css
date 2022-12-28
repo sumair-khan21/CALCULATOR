@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.main{
+    height: 100%;
+    width: 100%;
+}
+.coutomBtn{
+    width: 23%;
+    margin: 0;
+}
